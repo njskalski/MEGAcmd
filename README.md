@@ -47,6 +47,7 @@ libavcodec-dev libavutil-dev libavformat-dev libswscale-dev libmediainfo-dev lib
 Ensure you obtain the repository recursively.
 ```
 git clone https://github.com/meganz/MEGAcmd.git
+cd MEGAcmd
 git submodule update --init --recursive
 ```
 
